@@ -22,17 +22,25 @@
   <summary>:zap: How strong i'm?</summary>
 
   <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
-<br />
-<br />
-### ⛩️ Let's talk together ⛩️
+  
 
-<!-- YOUTUBE:START -->
-- [Software Devs: A un click de distancia.](https://youtu.be/vr0-074Ccu4)
-- [Software Devs: A un click de distancia. p2](https://youtu.be/Ov13YBchfG4)
-- [Software Devs: A un click de distancia. p3](https://youtu.be/ZFFY1jMvicI)
-<!-- YOUTUBE:END -->
-
----
+  <a href="https://github.com/Seventty/github-readme-stats">
+42   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seventty&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Seventty's github stats" />
+43 </a>
+44 <a href="https://github.com/Seventty/github-readme-stats">
+45   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty   hazra&layout=compact&theme=gruvbox" />
+47 </a>
+48
+49 <a href="https://github.com/Seventty/github-readme-stats">
+50   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+51   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&   repo=github-readme-stats&theme=gruvbox" />
+52 </a>
+53 <a href="https://github.com/Seventty/Seventty.github.io">
+54   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+55   <img align="center" src="https://github-readme-stats-vercel.app/api/pin/?username=Seventty&   repo=Seventty.github.io&theme=gruvbox" />
+56 </a>
+<br />
 
 </details>
 
