@@ -18,31 +18,26 @@
 
 <br />
 
-<details>
-  <summary>:zap: How strong i'm?</summary>
-
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
+  <!-- <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" /> -->
   
-
   <a href="https://github.com/Seventty/github-readme-stats">
 42   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seventty&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Seventty's github stats" />
 43 </a>
 44 <a href="https://github.com/Seventty/github-readme-stats">
 45   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty   hazra&layout=compact&theme=gruvbox" />
+46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=gruvbox" />
 47 </a>
 48
 49 <a href="https://github.com/Seventty/github-readme-stats">
 50   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-51   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&   repo=github-readme-stats&theme=gruvbox" />
+51   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=github-readme-stats&theme=gruvbox" />
 52 </a>
 53 <a href="https://github.com/Seventty/Seventty.github.io">
 54   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-55   <img align="center" src="https://github-readme-stats-vercel.app/api/pin/?username=Seventty&   repo=Seventty.github.io&theme=gruvbox" />
+55   <img align="center" src="https://github-readme-stats-vercel.app/api/pin/?username=Seventty&repo=Seventty.github.io&theme=gruvbox" />
 56 </a>
 <br />
 
-</details>
 
 [ws]: https://chat.whatsapp.com/Fs3wC5XTxDLFEHfAr6FDyU
 
