@@ -25,17 +25,10 @@
 43 </a>
 44 <a href="https://github.com/Seventty/github-readme-stats">
 45   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=gruvbox" />
+46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical" />
 47 </a>
 48
-49 <a href="https://github.com/Seventty/github-readme-stats">
-50   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-51   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=github-readme-stats&theme=gruvbox" />
-52 </a>
-53 <a href="https://github.com/Seventty/Seventty.github.io">
-54   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-55   <img align="center" src="https://github-readme-stats-vercel.app/api/pin/?username=Seventty&repo=Seventty.github.io&theme=gruvbox" />
-56 </a>
+
 <br />
 
 
