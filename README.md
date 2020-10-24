@@ -4,15 +4,13 @@
 
 ### Just killing the lines, chilling.
 
--👑 Administrator of
- [Software Developers][softdevsws]
+-👑 Administrator of [Software Developers][softdevsws]
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 developing high technology, but in secret.
 - 👁️‍🗨️ 2021 Goals: The first: Survive.The 2th: still coding.
 - 🤍 Thigs that i love: Try new technology & to botting.
 
 
-<br/>
 [<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
