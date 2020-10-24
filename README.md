@@ -51,7 +51,7 @@
 <br />
 
 </details>
-<br />
+
 **Chill Here** 
 <br/>
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Seventty Spotify Playing" width="350" />](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61?si=ib104ioUREmUMkLyAW4MMw)
