@@ -1,4 +1,4 @@
-## You there, i'm here. Do not lean too far, you may fall.- [Zero](www.github.com/Seventty)
+## You there, i'm here. Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
 
 ![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
