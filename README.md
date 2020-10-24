@@ -2,15 +2,6 @@
 
 ![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
-Wanna contact with me?
-<br><br>
-[<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-
-[<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-[<img align="left" alt="SoftDevs | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br>
 ## Just killing the lines, chilling.
 
 -👑 Administrator of
@@ -20,6 +11,14 @@ Wanna contact with me?
 - 👁️‍🗨️ 2021 Goals: The first: Survive.The 2th: still coding.
 - 🤍 Thigs that i love: Try new technology & to botting.
 
+
+Wanna contact with me?
+<br>
+[<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
+[<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[<img align="left" alt="SoftDevs | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Seventty Spotify Playing" width="350" />](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61?si=ib104ioUREmUMkLyAW4MMw)
 
