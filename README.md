@@ -28,6 +28,16 @@
   <img align="left" alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=gruvbox" />
 <br />
 <br />
+</details>
+
+<details>
+  <summary>⛩️ Let's talk together ⛩️ (spanish)</summary>
+
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p1]
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p2]
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p3]
+<br />
+<br />
 
 
 </details>
@@ -35,6 +45,10 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
+
+[p1]: https://youtu.be/vr0-074Ccu4
+[p2]: https://youtu.be/Ov13YBchfG4
+[p3]: https://youtu.be/ZFFY1jMvicI
 
 [whatsapp]: https://api.whatsapp.com/send/?phone=18295567199&text=i+got+u+from+github&app_absent=0
 
