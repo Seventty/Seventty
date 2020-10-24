@@ -34,9 +34,8 @@
 <br />
 <br />
 
-
 </details>
-
+<br />
 <details>
   <summary>📥 Contact me</summary>
 
@@ -48,7 +47,6 @@
 
 <br />
 <br />
-
 
 </details>
 
