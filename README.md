@@ -1,4 +1,4 @@
-### You there, i'm here. Do not lean too far, you may fall[Seventty] 👋
+### You there, i'm here. Do not lean too far, you may fall[Seventty][geeting]
 
 ![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
@@ -16,14 +16,27 @@
 
 [<img align="left" alt="SoftDevs | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 
 <details>
   <summary>:zap: How strong i'm?</summary>
 
   <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
 
+### ⛩️ Let's talk together ⛩️
+
+<!-- YOUTUBE:START -->
+- [Software Devs: A un click de distancia.](https://youtu.be/vr0-074Ccu4)
+- [Software Devs: A un click de distancia. p2](https://youtu.be/Ov13YBchfG4)
+- [Software Devs: A un click de distancia. p3](https://youtu.be/ZFFY1jMvicI)
+<!-- YOUTUBE:END -->
+
+---
+
 </details>
 
 [ws]: https://chat.whatsapp.com/Fs3wC5XTxDLFEHfAr6FDyU
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
+
+[greetin]: https://github.com/Seventty
