@@ -14,7 +14,7 @@ Wanna contact with me?
 ## Just killing the lines, chilling.
 
 -👑 Administrator of
- [Software Developers][ws]
+ [Software Developers][softdevsws]
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 developing high technology, but in secret.
 - 👁️‍🗨️ 2021 Goals: The first: Survive.The 2th: still coding.
@@ -41,5 +41,7 @@ Wanna contact with me?
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
 
 [whatsapp]: https://api.whatsapp.com/send/?phone=18295567199&text=i+got+u+from+github&app_absent=0
+
+[softdevsws]: https://chat.whatsapp.com/Fs3wC5XTxDLFEHfAr6FDyU
 
 [telegram]: https://t.me/ZeroSeventty
