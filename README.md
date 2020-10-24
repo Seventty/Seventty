@@ -1,4 +1,4 @@
-### You there, i'm here. Do not lean too far, you may fall [Rainiery Valerio Gonzales]
+### You there, i'm here. Do not lean too far, you may fall[Seventty][geeting]
 
 ![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
@@ -18,19 +18,16 @@
 
 <br />
 
-  <!-- <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" /> -->
-  
-  <a href="https://github.com/Seventty/github-readme-stats">
-42   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seventty&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Seventty's github stats" />
-43 </a>
-44 <a href="https://github.com/Seventty/github-readme-stats">
-45   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-46   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical" />
-47 </a>
-48
+<details>
+  <summary>:zap: How strong i'm?</summary>
 
+  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
+  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox" />
+<br />
 <br />
 
+
+</details>
 
 [ws]: https://chat.whatsapp.com/Fs3wC5XTxDLFEHfAr6FDyU
 
