@@ -20,6 +20,6 @@
 <details>
   <summary>:zap: How strong i'm?</summary>
 
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox" />
+  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
 
 </details>
