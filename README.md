@@ -3,7 +3,7 @@
 ![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
 
 Wanna contact with me?
-<br>
+<br><br>
 [<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
