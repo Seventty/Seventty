@@ -7,7 +7,7 @@
 - 👑 Administrator of [Software Developers][softdevsws]
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 developing high technology, but in secret.
-- 👁️‍🗨️ 2021 Goals: The first: Survive.The 2th: still coding.
+- 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
 - 🤍 Thigs that i love: Try new technology & to botting.
 <br /><br />
 **SuperPowers:**
@@ -23,8 +23,8 @@
 <details>
   <summary>:zap: How strong i'm?</summary>
 
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=gruvbox" />
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=gruvbox" />
+  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=radical" />
+  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical" />
 <br />
 <br />
 </details>
