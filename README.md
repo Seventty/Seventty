@@ -23,8 +23,8 @@
 <details>
   <summary>:zap: Perfomance :zap:</summary>
 
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=radical" />
-  <img align="left" alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical" />
+  <img alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=radical" />
+  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical" />
 <br />
 <br />
 </details>
