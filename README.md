@@ -33,9 +33,9 @@
 <details>
   <summary>⛩️ Let's talk together ⛩️ (spanish)</summary>
 
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p1]Software Devs: A un click de distancia. <br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p2]Software Devs: A un click de distancia.<br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p3]Software Devs: A un click de distancia.
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p1]Software Devs: A un click de distancia p1.<br>
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p2]Software Devs: A un click de distancia p2.<br>
+  [<img align="left" alt="SoftDevs | YouTube click a distancia p3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p3]Software Devs: A un click de distancia p3.
 <br />
 <br />
 
