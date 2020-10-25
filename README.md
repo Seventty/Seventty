@@ -1,4 +1,4 @@
-<style>*{background:black;}</style>
+<span style="color:red">some **This is Red Bold.** text</span>
 ## You there, I'm here. Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
 
 ---
