@@ -57,7 +57,7 @@
 **Chill Here** 
 <br/>
 
-[![Spotify](https://seventty-spotify-visualizer.vercel.app/api/spotify)](https://open.spotify.com/user/69yyqqq39izhaxqeht4roctal)
+[![Spotify](https://seventty-spotify-player-hdas5wqrx.vercel.appapp/api/spotify)]()
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
 
