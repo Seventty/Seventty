@@ -68,6 +68,19 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eternnoir&repo=pyTelegramBotAPI&theme=radical&title_color=ffe34c)](https://github.com/eternnoir/pyTelegramBotAPI)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=SkyPixCH&theme=radical&title_color=ffe34c)](https://github.com/Seventty/SkyPixCH)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=SkyPixCH&theme=radical&title_color=ffe34c)](https://github.com/Seventty/SkyPixCH)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=SofDevsCommunity&theme=radical&title_color=ffe34c)](https://github.com/Seventty/SofDevsCommunity)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=AbyssPool&theme=radical&title_color=ffe34c)](https://github.com/Seventty/AbyssPool)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=ItlaVision&theme=radical&title_color=ffe34c)](https://github.com/Seventty/ItlaVision)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=Seventty&theme=radical&title_color=ffe34c)](https://github.com/Seventty/Seventty)
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
 
