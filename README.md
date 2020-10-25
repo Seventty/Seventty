@@ -1,5 +1,5 @@
 
-## You there, I'm here. Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
+## Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
 
 ---
 ### About me.
