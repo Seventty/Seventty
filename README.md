@@ -4,7 +4,7 @@
 
 - ![adm](https://img.shields.io/website?label=%F0%9F%91%91%20Administrator%20of&logo=SoftDevs&up_color=33cc33&up_message=Whatsapp&url=https%3A%2F%2Fchat.whatsapp.com%2FFs3wC5XTxDLFEHfAr6FDyU)
 - ✔️ I'm speed lover (Vim) ya know what i mean?
-- 🚧 Developing high technology, but in secret.
+- ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-lightgrey?style=for-the-badge)
 - 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
 - ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-brightgreen?style=for-the-badge)
 <br /><br />
