@@ -57,8 +57,7 @@
 **Chill Here** 
 <br/>
 
-[![Spotify](https://seventty-spotify-player-5pui9yp5e.vercel.app/api/spotify-playing)]()
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61)
 
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
