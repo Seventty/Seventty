@@ -68,6 +68,9 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61)
 
+Favorite repos
+---
+
 <a href="https://github.com/eternnoir/pyTelegramBotAPI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eternnoir&repo=pyTelegramBotAPI&theme=radical&title_color=ffe34c" />
 </a>
