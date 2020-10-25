@@ -56,7 +56,7 @@
 
 **Chill Here** 
 <br/>
-[![Spotify](spotify-visualizer-rho.vercel.app/api/spotify)](https://open.spotify.com/user/69yyqqq39izhaxqeht4roctal)
+[![Spotify](spotify-visualizer-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/69yyqqq39izhaxqeht4roctal)
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
 
