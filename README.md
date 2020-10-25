@@ -3,7 +3,7 @@
 ### About me.
 
 - ![adm](https://img.shields.io/website?label=%F0%9F%91%91%20Administrator%20of%3A%20&style=flat-square&up_color=33cc33&up_message=SoftDevs%20%28whatsapp%20group%29&url=https%3A%2F%2Fchat.whatsapp.com%2FFs3wC5XTxDLFEHfAr6FDyU)
-- ✔️ I'm speed lover (Vim) ya know what i mean?
+- ![working](https://img.shields.io/badge/Working%20with-Vim-brightgreen?style=for-the-badge)
 - ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-lightgrey?style=for-the-badge)
 - 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
 - ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-brightgreen?style=for-the-badge)
