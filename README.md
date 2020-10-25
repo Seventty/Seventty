@@ -58,6 +58,7 @@
 <br/>
 
 [![Spotify](https://seventty-spotify-player-hdas5wqrx.vercel.app/api/spotify-playing)]()
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 
 [youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
