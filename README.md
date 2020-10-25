@@ -6,7 +6,7 @@
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 Developing high technology, but in secret.
 - 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
-- ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-brightgreen?style=for-the-badge&logo=appveyor)
+- ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-brightgreen?style=for-the-badge&logo=nodejs)
 <br /><br />
 **SuperPowers:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
