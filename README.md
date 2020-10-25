@@ -1,14 +1,12 @@
 ## You there, i'm here. Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
 
-![Website](https://img.shields.io/website?up_message=Software%20Developers&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCmJN2QqO9E9uYZue5zMlniQ)
-
 ### About me.
 
 - 👑 Administrator of [Software Developers][softdevsws]
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 Developing high technology, but in secret.
 - 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
-- ![learning](https://img.shields.io/badge/🌱Learning-Javascript-brightgreen)
+- ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-brightgreen)
 <br /><br />
 **SuperPowers:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
