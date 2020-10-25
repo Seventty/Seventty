@@ -3,7 +3,6 @@
 ### About me.
 
 - 👑 Administrator of [Software Developers][softdevsws]
-- ![👑 Administrator of](https://img.shields.io/badge/[Software Developers][softdevsws]-brightgreen?style=for-the-badge)
 - ✔️ I'm speed lover (Vim) ya know what i mean?
 - 🚧 Developing high technology, but in secret.
 - 👁️‍🗨️ 2021 Goals: The first: Survive. The 2th: still coding.
