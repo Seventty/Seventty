@@ -75,8 +75,8 @@ Favorite repos
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eternnoir&repo=pyTelegramBotAPI&theme=radical&title_color=ffe34c" />
 </a>
 
-<a href="https://github.com/Seventty/SkyPixCH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=SkyPixCH&theme=radical&title_color=ffe34c" />
+<a href="https://github.com/torvalds/linux">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=radical&title_color=ffe34c" />
 </a>
 
 <a href="https://github.com/Seventty/SofDevsCommunity">
