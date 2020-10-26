@@ -6,10 +6,10 @@
 
 <!-- First badges -->
 
-- ![adm](https://img.shields.io/website?label=%F0%9F%91%91%20Administrator%20of%20&style=for-the-badge&up_color=141321&up_message=SoftDevs&url=https%3A%2F%2Fchat.whatsapp.com%2FFs3wC5XTxDLFEHfAr6FDyU)
-- ![working](https://img.shields.io/badge/🌙Working%20with-Vim-141321?style=for-the-badge)![vim](https://img.shields.io/badge/-141321?logo=Vim&logoColor=white&style=for-the-badge)
-- ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-141321?style=for-the-badge)
-- ![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-141321?style=for-the-badge)
+![adm](https://img.shields.io/website?label=%F0%9F%91%91%20Administrator%20of%20&style=for-the-badge&up_color=141321&up_message=SoftDevs&url=https%3A%2F%2Fchat.whatsapp.com%2FFs3wC5XTxDLFEHfAr6FDyU)
+![working](https://img.shields.io/badge/🌙Working%20with-Vim-141321?style=for-the-badge)![vim](https://img.shields.io/badge/-141321?logo=Vim&logoColor=white&style=for-the-badge)
+![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-141321?style=for-the-badge)
+![learning](https://img.shields.io/badge/🌱Learning-Javascript/node-141321?style=for-the-badge)
 <br />
 
 <!-- Second badges -->
