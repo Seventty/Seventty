@@ -12,7 +12,7 @@
 
  - ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-141321?style=for-the-badge)
  
-- ![learning](https://img.shields.io/badge/🌱Learning-Javascript(Node|React),TypeScript,VimScript,bashScript-141321?style=for-the-badge)
+- ![learning](https://img.shields.io/badge/🌱Learning-React-141321?style=for-the-badge)
 
 - ![working](https://img.shields.io/badge/🏠Living%20in-Arch%20Linux-141321?style=for-the-badge)![vim](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
 
@@ -37,7 +37,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 ---
 <!-- Rest badges -->
 ---
