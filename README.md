@@ -12,7 +12,7 @@
 
  - ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-141321?style=for-the-badge)
  
-- ![learning](https://img.shields.io/badge/🌱Learning-React-141321?style=for-the-badge)
+- ![learning](https://img.shields.io/badge/🌱Learning-React,%20Devops%20tools-141321?style=for-the-badge)
 
 - ![working](https://img.shields.io/badge/🏠Living%20in-Arch%20Linux-141321?style=for-the-badge)![vim](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
 
