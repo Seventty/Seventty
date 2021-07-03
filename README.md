@@ -46,18 +46,22 @@
   Note: The % showed in the most used languaged bar isn't my level of language ability, they are only the languages that I use the most in projects (GH stats).
   <br/>
 
-  <img alt="Seventty's github status" src="https://github-readme-stats.codestackr.vercel.app/api?username=Seventty&show_icons=true&theme=radical&title_color=ffe34c" />
+  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api?username=seventty&show_icons=true&theme=radical" />
   <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical&title_color=D3D3D3" />
 <br />
 <br />
 </details>
 <br />
 <details>
-  <summary>⛩️ Let's talk together ⛩️ (spanish)</summary>
-
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p1" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p1]Software Devs: A un click de distancia p1.<br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p2" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p2]Software Devs: A un click de distancia p2.<br>
-  [<img align="left" alt="SoftDevs | YouTube click a distancia p3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][p3]Software Devs: A un click de distancia p3.
+  <summary>The CodeBox (Spanish Podcast) 📦</summary>
+ <p>Listen The CodeBox on:</p>
+ <a href="https://open.spotify.com/show/6cEld82ZcHaKU7fcaUc6Lu">Spotify</a><br />
+ <a href="https://anchor.fm/thecodebox">AnchorFM</a><br />
+ <a href="https://www.breaker.audio/the-codebox">Breaker</a><br />
+ <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==">Google Podcasts</a><br />
+ <a href="https://pca.st/3ww52pjg">Pocket Casts</a><br />
+ <a href="https://radiopublic.com/the-codebox-WxjQyV">Radio Public</a><br />
+ <p>On Apple Podcast as The CodeBox too ❤️</p><br/>
 <br />
 <br />
 
