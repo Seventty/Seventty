@@ -71,7 +71,7 @@
   <summary>The CodeBox (Spanish Podcast) 📦</summary>
  <p>Listen The CodeBox on:</p>
 
- [![Telegram](https://img.shields.io/badge/Telegram-#26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://github.com/seventty)](https://t.me/SoftwareDevelopmentChannel)
+ [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
 
 
 
