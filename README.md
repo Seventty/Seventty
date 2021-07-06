@@ -73,7 +73,15 @@
 
  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
 
+ [![AnchorFM](https://img.shields.io/badge/Telegram-5000B9?style=for-the-badge&logo=anchor&logoColor=white&link=https://anchor.fm/thecodebox)](https://anchor.fm/thecodebox)
 
+ [![Breaker](https://img.shields.io/badge/Breaker-003DAD?style=for-the-badge&logo=breaker&logoColor=white&link=https://www.breaker.audio/the-codebox)](https://www.breaker.audio/the-codebox)
+
+ [![GooglePodcast](https://img.shields.io/badge/Google%20Podcast-4285F4?style=for-the-badge&logo=google%20podcast&logoColor=white&link=https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)
+
+ [![PocketCast](https://img.shields.io/badge/Pocket%20Casts-F43E37?style=for-the-badge&logo=pocket%20casts&logoColor=white&link=https://pca.st/3ww52pjg)](https://pca.st/3ww52pjg)
+
+ [![RadioPublic](https://img.shields.io/badge/RadioPublic-CE262F?style=for-the-badge&logo=radiopublic&logoColor=white&link=https://radiopublic.com/the-codebox-WxjQyV)](https://radiopublic.com/the-codebox-WxjQyV)
 
 </details>
 <br />
