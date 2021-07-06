@@ -60,10 +60,11 @@
   <summary>:zap: Perfomance :zap:</summary>
   Note: The % showed in the most used languaged bar isn't my level of language ability, they are only the languages that I use the most in projects (GH stats).
   <br/>
+  <br/>
 
   <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api?username=seventty&show_icons=true&theme=radical" />
   <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical&title_color=D3D3D3" />
-<br />
+  
 <br />
 </details>
 <br />
