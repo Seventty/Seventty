@@ -29,20 +29,26 @@
 <!-- Second badges -->
 ---
 **Knifes:**
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
+<!-- Languages -->
 [![Python](https://img.shields.io/badge/Python-ffff33?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-
+<!-- Text Editors -->
 [![VimScript](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-[![VScode](https://img.shields.io/badge/VScode-808080?style=flat&logo=visual%20studio%20code&logoColor=purple&link=https://github.com/seventty)](https://github.com/seventty)
-
+[![NeoVIm](https://img.shields.io/badge/Neovim-019733?style=flat&logo=neovim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![VScode](https://img.shields.io/badge/VScode-808080?style=flat&logo=visual%20studio%20code&logoColor=blue&link=https://github.com/seventty)](https://github.com/seventty)
+<!-- Hobbies -->
 [![ChatBots](https://img.shields.io/badge/ChatBots-ff1a75?style=flat&logo=chatbot&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-
+<!-- Contenetors -->
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-
+<!-- Databases gestors -->
+[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgres&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=flat&logo=sqlite&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![SQLserver](https://img.shields.io/badge/SQL%20Server-4479A1?style=flat&logo=microsoft%20sql%20server&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+<!-- Operative systems -->
 [![Arch](https://img.shields.io/badge/Arch%20Linux-2496ED?style=flat&logo=arch%20linux&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
