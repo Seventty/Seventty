@@ -29,7 +29,8 @@
 <!-- Second badges -->
 ---
 **SuperPowers:**
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
+[![Python](https://img.shields.io/badge/python-ffff66?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
 ---
 <!-- Rest badges -->
 ---
