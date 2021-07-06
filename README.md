@@ -88,10 +88,11 @@
 <details>
   <summary>Where i'm?</summary>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=white&link=https://t.me/seventty)](https://t.me/seventty)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
 
-<br />
-<br />
+[![Youtube](https://img.shields.io/badge/Youtube%20Channel-FF0000?style=social&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)](https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=telegram&logoColor=E4405F&link=https://instagram.com/soft.developersofficial)](https://instagram.com/soft.developersofficial)
 
 </details>
 
