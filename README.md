@@ -38,7 +38,7 @@
 <!-- Text Editors -->
 [![VimScript](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![NeoVIm](https://img.shields.io/badge/Neovim-019733?style=flat&logo=neovim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-[![VScode](https://img.shields.io/badge/VScode-808080?style=flat&logo=visual%20studio%20code&logoColor=blue&link=https://github.com/seventty)](https://github.com/seventty)
+[![VScode](https://img.shields.io/badge/VScode-000000?style=flat&logo=visual%20studio%20code&logoColor=blue&link=https://github.com/seventty)](https://github.com/seventty)
 <!-- Hobbies -->
 [![ChatBots](https://img.shields.io/badge/ChatBots-ff1a75?style=flat&logo=chatbot&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 <!-- Contenetors -->
@@ -52,6 +52,7 @@
 [![Arch](https://img.shields.io/badge/Arch%20Linux-2496ED?style=flat&logo=arch%20linux&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
+[![Bash](https://img.shields.io/badge/🤍-000000?style=flat&logo=gnu%20bash&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 ---
 <!-- Rest badges -->
 ---
