@@ -28,20 +28,23 @@
 
 <!-- Second badges -->
 ---
-**SuperPowers:**
+**Knifes:**
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
 [![Python](https://img.shields.io/badge/Python-ffff33?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
-[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
 [![VimScript](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![VScode](https://img.shields.io/badge/VScode-808080?style=flat&logo=visual%20studio%20code&logoColor=purple&link=https://github.com/seventty)](https://github.com/seventty)
 
 [![ChatBots](https://img.shields.io/badge/ChatBots-ff1a75?style=flat&logo=chatbot&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
 [![Arch](https://img.shields.io/badge/Arch%20Linux-2496ED?style=flat&logo=arch%20linux&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
 ---
 <!-- Rest badges -->
