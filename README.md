@@ -73,7 +73,7 @@
 
  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
 
- [![AnchorFM](https://img.shields.io/badge/Telegram-5000B9?style=for-the-badge&logo=anchor&logoColor=white&link=https://anchor.fm/thecodebox)](https://anchor.fm/thecodebox)
+ [![AnchorFM](https://img.shields.io/badge/AnchorFM-5000B9?style=for-the-badge&logo=anchor&logoColor=white&link=https://anchor.fm/thecodebox)](https://anchor.fm/thecodebox)
 
  [![Breaker](https://img.shields.io/badge/Breaker-003DAD?style=for-the-badge&logo=breaker&logoColor=white&link=https://www.breaker.audio/the-codebox)](https://www.breaker.audio/the-codebox)
 
