@@ -29,15 +29,7 @@
 <!-- Second badges -->
 ---
 **SuperPowers:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 ---
 <!-- Rest badges -->
 ---
@@ -68,13 +60,9 @@
 </details>
 <br />
 <details>
-  <summary>📥 Contact me</summary>
+  <summary>Where i'm?</summary>
 
-[<img align="left" alt="my contact | ws" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-[<img align="left" alt="my contact | tg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-[<img align="left" alt="SoftDevs | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 <br />
@@ -112,18 +100,4 @@ Favorite repos
 <a href="https://github.com/Seventty/Seventty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=Seventty&theme=radical&title_color=ffe34c" />
 </a>
-
-
-[youtube]: https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ
-
-[p1]: https://youtu.be/vr0-074Ccu4
-[p2]: https://youtu.be/Ov13YBchfG4
-[p3]: https://youtu.be/ZFFY1jMvicI
-
-[whatsapp]: https://api.whatsapp.com/send/?phone=18295567199&text=i+got+u+from+github&app_absent=0
-
-[softdevsws]: https://chat.whatsapp.com/Fs3wC5XTxDLFEHfAr6FDyU
-
-
-[telegram]: https://t.me/ZeroSeventty
 
