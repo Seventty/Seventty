@@ -77,7 +77,7 @@
 
  [![Breaker](https://img.shields.io/badge/Breaker-003DAD?style=for-the-badge&logo=breaker&logoColor=white&link=https://www.breaker.audio/the-codebox)](https://www.breaker.audio/the-codebox)
 
- [![GooglePodcast](https://img.shields.io/badge/Google%20Podcast-4285F4?style=for-the-badge&logo=google%20podcast&logoColor=white&link=https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)
+ [![GooglePodcast](https://img.shields.io/badge/Google%20Podcast-4285F4?style=for-the-badge&logo=google%20podcasts&logoColor=white&link=https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==)
 
  [![PocketCast](https://img.shields.io/badge/Pocket%20Casts-F43E37?style=for-the-badge&logo=pocket%20casts&logoColor=white&link=https://pca.st/3ww52pjg)](https://pca.st/3ww52pjg)
 
@@ -88,7 +88,7 @@
 <details>
   <summary>Where i'm?</summary>
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=white&link=https://t.me/seventty)](https://t.me/seventty)
 
 <br />
 <br />
