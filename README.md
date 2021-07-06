@@ -1,4 +1,3 @@
-
 ## Do not lean too far, you may fall.- [Zero](https://www.github.com/Seventty)
 
 ---
@@ -64,7 +63,7 @@
 
   <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api?username=seventty&show_icons=true&theme=radical" />
   <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical&title_color=D3D3D3" />
-  
+
 <br />
 </details>
 <br />
@@ -131,4 +130,3 @@ Favorite repos
 <a href="https://github.com/Seventty/Seventty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=Seventty&theme=radical&title_color=ffe34c" />
 </a>
-
