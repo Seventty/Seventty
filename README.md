@@ -51,6 +51,7 @@
 <!-- Operative systems -->
 [![Arch](https://img.shields.io/badge/Arch%20Linux-2496ED?style=flat&logo=arch%20linux&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+
 [![Bash](https://img.shields.io/badge/🤍-000000?style=flat&logo=gnu%20bash&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 ---
 <!-- Rest badges -->
