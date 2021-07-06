@@ -70,6 +70,7 @@
 <details>
   <summary>The CodeBox (Spanish Podcast) 📦</summary>
  <p>Listen The CodeBox on:</p>
+<!-- Listen, listen -->
 
  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
 
@@ -87,6 +88,7 @@
 <br />
 <details>
   <summary>Where i'm?</summary>
+<!-- Social medias -->
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
 
