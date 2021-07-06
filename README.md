@@ -85,10 +85,11 @@
  [![RadioPublic](https://img.shields.io/badge/RadioPublic-CE262F?style=for-the-badge&logo=radiopublic&logoColor=white&link=https://radiopublic.com/the-codebox-WxjQyV)](https://radiopublic.com/the-codebox-WxjQyV)
 
 </details>
-<br />
+<br/>
 <details>
   <summary>Where i'm?</summary>
 <!-- Social medias -->
+<br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
 
