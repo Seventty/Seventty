@@ -31,7 +31,7 @@
 **SuperPowers:**
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
 [![Python](https://img.shields.io/badge/Python-ffff33?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
-[![NodeJS](https://img.shields.io/badge/NodeJS-#339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
 [![React](https://img.shields.io/badge/React-#61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![TypeScript](https://img.shields.io/badge/TypeScript-##3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
