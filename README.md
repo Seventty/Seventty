@@ -70,8 +70,10 @@
 <details>
   <summary>The CodeBox (Spanish Podcast) 📦</summary>
  <p>Listen The CodeBox on:</p>
- 
- [![Bash](https://img.shields.io/badge/🤍-000000?style=flat&logo=gnu%20bash&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+
+ [![Telegram](https://img.shields.io/badge/Telegram-#26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
+
+
 
 </details>
 <br />
