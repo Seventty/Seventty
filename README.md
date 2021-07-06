@@ -47,15 +47,7 @@
 <details>
   <summary>The CodeBox (Spanish Podcast) 📦</summary>
  <p>Listen The CodeBox on:</p>
- <a href="https://open.spotify.com/show/6cEld82ZcHaKU7fcaUc6Lu">Spotify</a><br />
- <a href="https://anchor.fm/thecodebox">AnchorFM</a><br />
- <a href="https://www.breaker.audio/the-codebox">Breaker</a><br />
- <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81ZTM2ZTI2MC9wb2RjYXN0L3Jzcw==">Google Podcasts</a><br />
- <a href="https://pca.st/3ww52pjg">Pocket Casts</a><br />
- <a href="https://radiopublic.com/the-codebox-WxjQyV">Radio Public</a><br />
- <p>On Apple Podcast as The CodeBox too ❤️</p><br/>
-<br />
-<br />
+ 
 
 </details>
 <br />
