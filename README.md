@@ -92,7 +92,7 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube%20Channel-FF0000?style=social&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)](https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=telegram&logoColor=E4405F&link=https://instagram.com/soft.developersofficial)](https://instagram.com/soft.developersofficial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=E4405F&link=https://instagram.com/soft.developersofficial)](https://instagram.com/soft.developersofficial)
 
 </details>
 
