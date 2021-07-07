@@ -91,7 +91,11 @@
 <!-- Social medias -->
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
+[![Telegram](https://img.shields.io/badge/MyOwn-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
+
+[![Telegram](https://img.shields.io/badge/SoftDevs-GeneralGroup-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
+
+[![Telegram](https://img.shields.io/badge/SoftDevs-FreeGroup-26A5E4?style=social&logo=telegram&logoColor=26A5E4&link=https://t.me/seventty)](https://t.me/seventty)
 
 [![Youtube](https://img.shields.io/badge/Youtube%20Channel-FF0000?style=social&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)](https://www.youtube.com/channel/UCmJN2QqO9E9uYZue5zMlniQ)
 
