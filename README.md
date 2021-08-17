@@ -13,7 +13,9 @@
  
 - ![learning](https://img.shields.io/badge/🌱Learning-%20Devops%20tools-141321?style=for-the-badge)
 
-- ![working](https://img.shields.io/badge/🏠Living%20in-Arch%20Linux-141321?style=for-the-badge)![vim](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
+- ![living](https://img.shields.io/badge/🏠Main%20Workplace-Arch%20Linux-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
+
+- ![living](https://img.shields.io/badge/⛩️Temporally%20in-Manjaro-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=manjaro&logoColor=blue&style=for-the-badge)
 
 - ![Creator of](https://img.shields.io/badge/🎀Creator%20Of-XhibalbaBot%20[%20The%20heart%20of%20the%207th%20]🎀-cc0052?style=for-the-badge)
 
