@@ -75,6 +75,8 @@
 <!-- Listen, listen -->
 
  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/SoftwareDevelopmentChannel)](https://t.me/SoftwareDevelopmentChannel)
+ 
+ [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/show/6cEld82ZcHaKU7fcaUc6Lu)](https://open.spotify.com/show/6cEld82ZcHaKU7fcaUc6Lu)
 
  [![AnchorFM](https://img.shields.io/badge/AnchorFM-5000B9?style=for-the-badge&logo=anchor&logoColor=white&link=https://anchor.fm/thecodebox)](https://anchor.fm/thecodebox)
 
