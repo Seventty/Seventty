@@ -116,7 +116,7 @@ Favorite repos
 ---
 
 <a href="https://github.com/SoftDevsCommunity/XhibalbaBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoftDevsCommunity&repo=XhibalbaBot&theme=radical&title_color=ffe34c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoftDevsCommunity&repo=XhibalbaBot&theme=dracula" />
 </a>
 
 <a href="https://github.com/torvalds/linux">
