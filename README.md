@@ -115,7 +115,7 @@
 Favorite repos
 ---
 
-<a href="https://github.com/eternnoir/pyTelegramBotAPI">
+<a href="https://github.com/SoftDevsCommunity/XhibalbaBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eternnoir&repo=pyTelegramBotAPI&theme=radical&title_color=ffe34c" />
 </a>
 
@@ -123,15 +123,15 @@ Favorite repos
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=radical&title_color=ffe34c" />
 </a>
 
-<a href="https://github.com/Seventty/SofDevsCommunity">
+<a href="https://github.com/Seventty/util-linux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=SofDevsCommunity&theme=radical&title_color=ffe34c" />
 </a>
 
-<a href="https://github.com/Seventty/AbyssPool">
+<a href="https://github.com/Seventty/HackerRank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=AbyssPool&theme=radical&title_color=ffe34c" />
 </a>
 
-<a href="https://github.com/Seventty/ItlaVision">
+<a href="https://github.com/Seventty/linklist-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=ItlaVision&theme=radical&title_color=ffe34c" />
 </a>
 
