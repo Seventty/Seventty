@@ -63,8 +63,11 @@
   <br/>
   <br/>
 
-  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api?username=seventty&show_icons=true&theme=radical" />
-  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical&title_color=D3D3D3" />
+  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api?username=seventty&show_icons=true&theme=radical&hide_border=true" />
+ 
+ <img alt="Seventty's github status" src="https://github-readme-streak-stats.herokuapp.com?user=Seventty&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=es&fire=38DDDB)](https://git.io/streak-stats"/>
+ 
+  <img alt="Seventty's github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventty&layout=compact&theme=radical&title_color=D3D3D3&hide_border=true" />
 
 <br />
 </details>
