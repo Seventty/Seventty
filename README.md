@@ -114,30 +114,3 @@
 <br/>
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/6eyPkbnj6umhnPbAx2CC61)
-
-Favorite repos
----
-
-<a href="https://github.com/SoftDevsCommunity/XhibalbaBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SoftDevsCommunity&repo=XhibalbaBot&theme=dracula" />
-</a>
-
-<a href="https://github.com/torvalds/linux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=radical&title_color=ffe34c" />
-</a>
-
-<a href="https://github.com/Seventty/util-linux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=util-linux&theme=radical&title_color=ffe34c" />
-</a>
-
-<a href="https://github.com/Seventty/HackerRank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=HackerRank&theme=radical&title_color=ffe34c" />
-</a>
-
-<a href="https://github.com/Seventty/linklist-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=linklist-bot&theme=radical&title_color=ffe34c" />
-</a>
-
-<a href="https://github.com/Seventty/Seventty">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seventty&repo=Seventty&theme=radical&title_color=ffe34c" />
-</a>
