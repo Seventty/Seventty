@@ -54,6 +54,11 @@
 [![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 <!-- Terminal Lover -->
 [![Bash](https://img.shields.io/badge/🤍-000000?style=flat&logo=gnu%20bash&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+
+[<img src="https://v2.speedtyper.dev/users/Seventty/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/Seventty) 
+[<img src="https://v2.speedtyper.dev/users/Seventty/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/Seventty) 
+[<img src="https://v2.speedtyper.dev/users/Seventty/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/Seventty)
+
 ---
 <!-- Rest badges -->
 ---
