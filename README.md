@@ -1,8 +1,6 @@
 <p align=center>
  <a href="https://app.daily.dev/Seventty"><img src="https://api.daily.dev/devcards/a1283f31b5b840cdb4ba2aade6a29a7d.png?r=rf8" width="400" alt="Rainiery Valerio Gonzalez's Dev Card"/></a>
 </p>
----
-### About me.
 
 <!-- First badges -->
 
