@@ -10,19 +10,15 @@
 
  - ![dev](https://img.shields.io/badge/🚧%20Developing%20high%20technology-but%20hidden-141321?style=for-the-badge)
  
-- ![learning](https://img.shields.io/badge/🌱Learning-%20Devops%20tools-141321?style=for-the-badge)
+- ![learning](https://img.shields.io/badge/🌱Learning-%20AWS-141321?style=for-the-badge)
 
-- ![living](https://img.shields.io/badge/🏠Main%20Workplace-Arch%20Linux-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
+- ![living](https://img.shields.io/badge/🏠Currently%20In-MacOs-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=apple&logoColor=blue&style=for-the-badge)
 
-- ![living](https://img.shields.io/badge/🍃Temporally%20in-Manjaro-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=manjaro&logoColor=blue&style=for-the-badge)
+- ![living](https://img.shields.io/badge/💙My%20First%20Love-Arch%20Linux-141321?style=for-the-badge)![os](https://img.shields.io/badge/-141321?logo=arch-linux&logoColor=blue&style=for-the-badge)
 
 - ![Creator of](https://img.shields.io/badge/🎀Creator%20Of-XhibalbaBot%20[%20The%20heart%20of%20the%207th%20]🎀-cc0052?style=for-the-badge)
 
-
-
-
 [💙](https://github.com/Honil05)
-
 
 <br />
 
@@ -31,10 +27,11 @@
 **Knifes:**
 <!-- Languages -->
 [![Python](https://img.shields.io/badge/Python-ffff33?style=flat&logo=python&logoColor=green&link=https://github.com/seventty)](https://github.com/seventty)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&link=https://github.com/seventty)](https://github.com/seventty)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![Angular](https://img.shields.io/badge/Angular-C3002F?style=flat&logo=angular&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![Nestjs](https://img.shields.io/badge/NestJS-C3002F?style=flat&logo=nestjs&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 <!-- Text Editors -->
 [![VimScript](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![NeoVIm](https://img.shields.io/badge/Neovim-019733?style=flat&logo=neovim&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
@@ -51,6 +48,7 @@
 <!-- Operative systems -->
 [![Arch](https://img.shields.io/badge/Arch%20Linux-2496ED?style=flat&logo=arch%20linux&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 [![Manjaro](https://img.shields.io/badge/Manjaro-2496ED?style=flat&logo=manjaro&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
+[![MacOS](https://img.shields.io/badge/MacOS-2496ED?style=flat&logo=apple&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 <!-- Terminal Lover -->
 [![Bash](https://img.shields.io/badge/🤍-000000?style=flat&logo=gnu%20bash&logoColor=white&link=https://github.com/seventty)](https://github.com/seventty)
 
